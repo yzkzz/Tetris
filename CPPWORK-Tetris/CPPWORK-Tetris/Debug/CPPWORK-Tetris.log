@@ -1,0 +1,3 @@
+﻿  CPPTetris.cpp
+D:\CPP\CPPWORK-Tetris\CPPWORK-Tetris\CPPTetris.cpp(863): warning C4715: “CheckBlock”: 不是所有的控件路径都返回值
+  CPPWORK-Tetris.vcxproj -> D:\CPP\CPPWORK-Tetris\Debug\CPPWORK-Tetris.exe
